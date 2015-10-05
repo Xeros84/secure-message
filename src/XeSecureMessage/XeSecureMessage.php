@@ -1,5 +1,7 @@
 <?php
 
+namespace XeSecureMessage;
+
 /**
  * Class XeSecureMessage
  */
