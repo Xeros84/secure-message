@@ -1,0 +1,12 @@
+{
+  "name": "xeros84/secure-message",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "XeSecureMessage": "src"
+    }
+  }
+}
