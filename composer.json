@@ -5,8 +5,8 @@
     "php": ">=5.4.0"
   },
   "autoload": {
-    "psr-0": {
-      "XeSecureMessage": "src"
+    "psr-4": {
+      "XeSecureMessage\\": "src/"
     }
   }
 }
